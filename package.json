@@ -1,0 +1,25 @@
+{
+  "name": "expressroutes",
+  "version": "1.0.0",
+  "description": "Routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniabradley/ExpressRoutes.git"
+  },
+  "keywords": [
+    "expressRoutes"
+  ],
+  "author": "soniabradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniabradley/ExpressRoutes/issues"
+  },
+  "homepage": "https://github.com/soniabradley/ExpressRoutes#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
